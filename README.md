@@ -26,7 +26,7 @@
    ![Image](https://github.com/user-attachments/assets/734606cc-a67e-4f62-b214-9b4ec84318af)
 
 2. 농구 동영상 행동 분석 프로그램
-   ![Basketball Video Action Analysis](분석.gif)
+   ![Image](https://github.com/user-attachments/assets/82a44163-c270-4677-946a-6d090da53823)
 
 ---
 
