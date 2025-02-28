@@ -17,7 +17,7 @@
 ---
 
 ### System Pipeline
-![System Pipeline](image.png)
+![Image](https://github.com/user-attachments/assets/734606cc-a67e-4f62-b214-9b4ec84318af)
 
 ---
 
