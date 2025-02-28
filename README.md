@@ -17,13 +17,13 @@
 ---
 
 ### System Pipeline
-![Image](https://github.com/user-attachments/assets/734606cc-a67e-4f62-b214-9b4ec84318af)
 
+![Image](https://github.com/user-attachments/assets/791f8886-eaec-450a-a7da-62745721f1a5)
 ---
 
 ### **Example**
 1. 실시간 웹캠 행동 분석 프로그램
-   ![Real-time Webcam Action Analysis](사진2.PNG)
+   ![Image](https://github.com/user-attachments/assets/734606cc-a67e-4f62-b214-9b4ec84318af)
 
 2. 농구 동영상 행동 분석 프로그램
    ![Basketball Video Action Analysis](분석.gif)
